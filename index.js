@@ -15,11 +15,12 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-console.log('hello')
-return("I can't hear you!".if (string.toLowerCase))
+if (string === toLowerCase)
+return("I can't hear you!")
 }
 
 function sayHiToGrandma(string) {
+  if (string === toUpperCase)
   return("YES INDEED!")
 }
 
